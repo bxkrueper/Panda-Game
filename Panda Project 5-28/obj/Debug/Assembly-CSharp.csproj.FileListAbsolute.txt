@@ -1,0 +1,60 @@
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Nathan\Documents\Unity Projects\Panda Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.xml
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEditor.xml
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\nunit.framework.xml
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\icsax\Desktop\Panda Project\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\icsax\Desktop\Panda Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\icsax\Desktop\Panda Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\icsax\Desktop\Panda Project\obj\Debug\Assembly-CSharp.pdb
